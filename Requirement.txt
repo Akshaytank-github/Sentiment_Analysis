@@ -1,0 +1,12 @@
+Libraries required for Sentiment Analysis:
+
+1. re
+2. pandas
+3. seaborn
+4. string
+5. nltk
+6. numpy
+7. warnings
+8. sklearn
+9. matplotlib
+10. tkinter
